@@ -1,0 +1,7 @@
+C:\Users\Privatecrack\Documents\csharp\tuto0\tuto0\obj\Debug\tuto0.csprojAssemblyReference.cache
+C:\Users\Privatecrack\Documents\csharp\tuto0\tuto0\obj\Debug\tuto0.csproj.CoreCompileInputs.cache
+C:\Users\Privatecrack\Documents\csharp\tuto0\tuto0\bin\Debug\tuto0.exe.config
+C:\Users\Privatecrack\Documents\csharp\tuto0\tuto0\bin\Debug\tuto0.exe
+C:\Users\Privatecrack\Documents\csharp\tuto0\tuto0\bin\Debug\tuto0.pdb
+C:\Users\Privatecrack\Documents\csharp\tuto0\tuto0\obj\Debug\tuto0.exe
+C:\Users\Privatecrack\Documents\csharp\tuto0\tuto0\obj\Debug\tuto0.pdb
